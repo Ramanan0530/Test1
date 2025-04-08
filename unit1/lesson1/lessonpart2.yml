@@ -3,9 +3,13 @@ id: lessonpart2
 title: Add a lesson page
 duration: 5
 content: |
+  ![1.00](dsadsa)
+
+  ![1.00]()
+
   To get started, your lesson can have as many pages as you need. &#x20;
 
-  To add a new page, select the **+** icon next to your lesson title in the Table of Contents in the far-left panel (for example, in “Tutorial: Welcome to Authoring”). 
+  To add a new page, select the **+** icon next to your lesson title in the Table of Contents in the far-left panel (for example, in “Tutorial: Welcome to Authoring”).
 
   At the top of the screen, you'll be asked to provide a title for the lesson page:
 
